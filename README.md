@@ -16,3 +16,11 @@ The Y-2-Kepler (Y2K) is an Intel Galileo project that keeps track of changes in 
 
 ### Running Y-2-Kepler
 ![Running Y-2-Kepler](https://s3.amazonaws.com/fvd-data/notes/166489/1433611432-bi6BFA/screen.png)
+
+## Project Authors
+
+- Taylor Foxhall ([@hallfox]())
+- Ruben Hernandez ([@kruben5415](https://github.com/kruben5415))
+- Miguel Lumapat ([@Wizzcotch](https://github.com/Wizzcotch))
+- Alan Plotko ([@alanplotko](https://github.com/alanplotko))
+- Brett Sackstein ([@B1anky](https://github.com/B1anky))
